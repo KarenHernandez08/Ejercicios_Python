@@ -21,8 +21,6 @@
   #### Volvemos a ejecutar `pip freeze` como respuesta tendremos esta lista 
   ![alt text](https://github.com/KarenHernandez08/Ejercicios_Python/blob/main/Imagenes/lista.PNG)
   
-  #### Volvemos a ejecutar `pip freeze` como respuesta tendremos esta lista 
-  ![alt text](https://github.com/KarenHernandez08/Ejercicios_Python/blob/main/Imagenes/lista.PNG)
   
   #### Después de hacer etso desactivaremos nuestro entorno virtual con `deactivate` 
   ![alt text](https://github.com/KarenHernandez08/Ejercicios_Python/blob/main/Imagenes/desactivar.PNG)
